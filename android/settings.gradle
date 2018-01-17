@@ -1,0 +1,3 @@
+rootProject.name = 'reduxameya'
+
+include ':app'
